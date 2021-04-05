@@ -9,5 +9,5 @@ From tomcat:8-jre8
 MAINTAINER "Mahesh kumar" 
 
 # copy war file on to container 
- COPY ./webapp.war /usr/local/tomcat/webapps
+ COPY ~/opt/docker/ /usr/local/tomcat/webapps
 
