@@ -1,4 +1,5 @@
-mkdir /abc/docker
+cd /abc
+mkdir docker
 
 ### vi Dockerfile
 # Pull base image 
