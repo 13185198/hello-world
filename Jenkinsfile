@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'ltecomm' }
+    agent { label 'maheshrepo' }
     stages {
         stage('SCM') {
             steps {
